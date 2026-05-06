@@ -1,5 +1,9 @@
 # Disk Space Manager
 
+> [!WARNING]
+> This repository is deprecated and kept for historical reference.
+> The maintained repository is now [shivamiitgoa/disk-space-manager](https://github.com/shivamiitgoa/disk-space-manager).
+
 A Python CLI tool for Unix-like systems that helps manage disk space by
 analyzing usage, identifying removable cache and temporary files, and archiving
 old files to an external drive or local folder.
